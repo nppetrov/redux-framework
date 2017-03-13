@@ -57,7 +57,7 @@
     /**
      * ---> SET ARGUMENTS
      * All the possible arguments for Redux.
-     * For full documentation on arguments, please refer to: https://github.com/ReduxFramework/ReduxFramework/wiki/Arguments
+     * For full documentation on arguments, please refer to: https://docs.reduxframework.com/core/arguments/
      * */
 
     $theme = wp_get_theme(); // For use with some settings. Not necessary.
